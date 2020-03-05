@@ -1,0 +1,74 @@
+.parent {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 22px;
+    letter-spacing: 3px;
+    margin: 0;
+}
+
+h2{
+    font-size: 15px;
+    margin: 0 13px;
+}
+
+.card{
+    float: left;
+    border: 1px solid;
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+    margin: 5px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #8A2BE2;
+    padding: 15px;
+}
+
+img {
+    width: 60px;
+    margin-top: 25px;
+    margin-bottom: 0;
+    margin-left: 6px;
+}
+.logo {
+    float: right;
+    width: 120px;
+    margin-top: 0px;
+}
+
+.tinkoff {
+background-color: black;
+}
+
+.vtb {
+background-color: blue;
+}
+
+.sberb {
+background-color: green;
+}
+
+.left-bottom {
+    float: left;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 13px;
+}
+.valid {
+    font-size: 10px;
+}
+
+.visa-img {
+    float: right;
+}
+.mast-img {
+    float: right;
+    margin: 10px;
+}
